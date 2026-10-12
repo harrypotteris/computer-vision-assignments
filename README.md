@@ -34,9 +34,3 @@ Stitches three overlapping images into a panorama with the center image as refer
 ```
 pip install opencv-python numpy matplotlib scikit-learn scipy PyMaxflow ipywidgets
 ```
-
-## Results
-Add before/after images here, e.g.:
-
-![Panorama](panorama_stitching/images/panorama_result.png)
-![Graph cut comparison](graphcut_segmentation/images/comparison_img1.png)
