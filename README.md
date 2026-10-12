@@ -1,4 +1,4 @@
-# computer-vision-assignments[README.md](https://github.com/user-attachments/files/33347598/README.md)
+
 # Computer Vision Assignments
 
 Two assignments from the Computer Vision course at IIT Jodhpur.
